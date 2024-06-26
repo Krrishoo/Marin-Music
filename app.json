@@ -14,32 +14,32 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "20638616",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "7516edef7626398a775c155caba15f94",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "",
+        "value": "7311915891:AAHMeyZt1oImAknaPJJe-kJ6PeNw0s1ptYQ",
         "required": true
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "",
+        "value": "mongodb+srv://krrishoo:Krrish_oo@krrishoo.nsl1lnh.mongodb.net/?retryWrites=true&w=majority&appName=Krrishoo",
         "required": true
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot.",
-        "value": "",
+        "value": "pedo",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "",
+        "value": "6896635800",
         "required": true
       },
       "STRING_SESSION": {
@@ -59,7 +59,7 @@
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!.",
-        "value": "",
+        "value": "1002233423808",
         "required": true
       }
     },
